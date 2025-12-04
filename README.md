@@ -4,8 +4,11 @@ This repository contains all datasets (raw and processed) and the full R script 
 
 Files within the repository:
 organized_pfmd_track_datasets_raw.zip     # Raw PFMD mosquito trajectory CSVs
+
 sticky_hobo_allcolors_raw.csv             # Raw sticky-trap resting behavior data
+
 Processed_Data.zip                        # All processed datasets (described below)
+
 Jimenez-Vallejo_et_al_2025_mosquito_behavior_script.R   # Full analysis script
 
 ###########################################
