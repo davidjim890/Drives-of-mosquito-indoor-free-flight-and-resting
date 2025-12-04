@@ -9,6 +9,7 @@ Processed_Data.zip                        # All processed datasets (described be
 Jimenez-Vallejo_et_al_2025_mosquito_behavior_script.R   # Full analysis script
 
 ###########################################
+
 Raw Data
 organized_pfmd_track_datasets_raw.zip 
     Contains all raw mosquito trajectory CSVs from the PFMD tracking system.
@@ -21,6 +22,7 @@ sticky_hobo_allcolors_raw.csv
 
 
 ###########################################
+
 Processed Data (inside “Processed_Data.zip”)
 
   Simulated Trajectory Data
@@ -62,6 +64,7 @@ Processed Data (inside “Processed_Data.zip”)
 
 
 ############################################
+
 Analysis Script
 Jimenez-Vallejo_et_al_2025_mosquito_behavior_script.R
   This R script contains all analyses used in the manuscript, including:
@@ -74,12 +77,14 @@ Jimenez-Vallejo_et_al_2025_mosquito_behavior_script.R
 
 
 ###########################################
+
 License
 Creative Commons Attributions 4.0 International
 
 
 
 ############################################
+
 Citation
 
 If you use these data or code, please cite:
